@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Practice accessing information from APIs and using it to update the DOM
+
 - Practice listening for user events and updating the DOM in response
 
 ## Introduction
